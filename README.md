@@ -1,4 +1,4 @@
-# INamp
+# INmap
 AR Indoor Navigation
 
 Adding this project to Unity is pretty easy. Take the zipped folder, and unzip to wherever you’d like. Open Unity, and select “ADD”. 
