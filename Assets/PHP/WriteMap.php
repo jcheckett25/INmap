@@ -1,8 +1,8 @@
 <?php
     //AWS SERVER!!!
     $servername = "api-data.cnfllrhicyva.us-east-2.rds.amazonaws.com";
-    $username = "root";
-    $password = "johnnyapps";
+    $username = "";
+    $password = "";
     $dbName = "api-dev";
 
     $mapName = $_POST["mapName"];
